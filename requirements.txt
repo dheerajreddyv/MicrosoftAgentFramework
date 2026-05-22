@@ -1,0 +1,19 @@
+# ── Azure Identity & Projects ───────────────────────────────────
+azure-identity
+azure-ai-projects
+
+# ── Agent Framework ─────────────────────────────────────────────
+agent-framework
+agent-framework-core
+agent-framework-foundry
+agent-framework-orchestrations
+
+# ── Foundry Hosting Adapter ────────────────────────────────────
+agent-framework-foundry-hosting
+
+# ── Networking / Async ──────────────────────────────────────────
+httpx
+
+# ── Utilities ───────────────────────────────────────────────────
+python-dotenv
+pyyaml
